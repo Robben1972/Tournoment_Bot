@@ -13,8 +13,8 @@ This project is designed to manage the registration and randomization of players
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone git@github.com:Robben1972/Tournoment_Bot.git
+cd repo-name
 ```
 
 ### 2. Create a Virtual Environment
